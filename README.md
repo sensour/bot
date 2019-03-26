@@ -1,6 +1,6 @@
 # bot
 # Echobot написан на Python 3
-<import telebot 
+<import telebot>
 token = ' ' 
 bot = telebot.TeleBot(token)
 
