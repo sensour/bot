@@ -1,5 +1,6 @@
 # bot
 # Echobot написан на Python 3
+<body>
 import telebot
 token = ' '
 bot = telebot.TeleBot(token)
@@ -24,11 +25,5 @@ def translate_messages(message):
     bot.send_message(message.chat.id, out_text)
 if __name__ == '__main__':
      bot.polling(none_stop=True)    
- </head>
- <body>
-
-  <h1>Заголовок страницы</h1>
-  <p>Основной текст.</p>
-
- </body>
+</body>
 </html>
