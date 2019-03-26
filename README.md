@@ -1,7 +1,7 @@
 # bot
 # Echobot написан на Python 3
-# import telebot
-# token = ' '
+<import telebot 
+token = ' ' 
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(content_types=["text"])
@@ -9,8 +9,8 @@ def repeat_all_messages(message):
     bot.send_message(message.chat.id, message.text)
 
 if __name__ == '__main__':
-     bot.polling(none_stop=True)
-# Добавляем Yandex API
+     bot.polling(none_stop=True)>
+# Добавляем Yandex.Translate API.
 # Получаем бот-переводчик
 import telebot
 from yandex_translate import YandexTranslate 
