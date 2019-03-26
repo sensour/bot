@@ -1,7 +1,7 @@
 # bot
 # Echobot написан на Python 3
-/ import telebot
-token = ' '
+# import telebot
+# token = ' '
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(content_types=["text"])
