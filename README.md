@@ -11,8 +11,12 @@
 <p> </p>
 <p>if __name__ == '__main__':</p>
     <p> bot.polling(none_stop=True)</p>
+</body>   
+</html>
+
 # Добавляем Yandex.Translate API.
 # Получаем бот-переводчик
+</body>
 <p>import telebot</p>
 <p>from yandex_translate import YandexTranslate </p>
 <p>token = '895984736:AAEGJg2l1woST5RseHHv-FUWAYpOjIbUin4'</p>
