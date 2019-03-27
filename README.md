@@ -32,6 +32,4 @@
       <p> </p>
 </body>
 </html>
-<br> 
-<img height = '700' src = 'https://github.com/sensour/bot/blob/master/bot1.jpeg />
-<br>
+![img](https://github.com/sensour/bot/blob/master/bot1.jpeg)
