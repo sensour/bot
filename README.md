@@ -32,3 +32,4 @@
       <p> </p>
 </body>
 </html>
+git add bot1.jpeg
